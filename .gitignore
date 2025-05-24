@@ -1,0 +1,20 @@
+# Cairo
+target/
+*.toml
+Scarb.lock
+
+# Flutter
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+
+# Assets
+assets/*.psd
+
+# Config
+config/*.secret
+
+# Misc
+.DS_Store
+*.log
